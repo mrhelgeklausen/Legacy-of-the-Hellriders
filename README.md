@@ -1,8 +1,8 @@
 # Legacy of the Hellriders
 ddfgdrgf
 
-[link](/charactercreation "title")
+[link](charactercreation "title")
 
-[background](/charactercreation/background "title")
+[background](charactercreation/background "title")
 
 

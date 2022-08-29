@@ -95,11 +95,8 @@ effects that you choose:
 throw. On a failed save, any creature that is not Good takes 2d6 radiant damage. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. Hollyphant Magic. You know the light cantrip. When you
 reach 6th level, you can cast the following spells twice per day each: Bless, Cure Wounds, and Protection from Evil and Good.
 
-When you reach 11th level, you can also cast one the
-following spells once per day: Banishment, Heal, and
-Shapechange. You may only shapechange into a goldenfurred
-mammoth with four feathered wings and a flying
-speed of 120 feet.
+When you reach 11th level, you can also <span style="background-color:black; color: black">dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) </span>
+.
 
 Your choice of either Charisma or Wisdom is your
 spellcasting ability for these spells. When you cast them

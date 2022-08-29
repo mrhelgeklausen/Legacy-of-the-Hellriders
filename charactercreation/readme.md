@@ -1,8 +1,8 @@
 # Character creation
 
 
-### Determine Ability Scores
-**Standard Array**. You get the following ability scores: 15, 14, 13, 12, 10, and 8.
+## Abilities
+We use the default array of 15, 14, 13, 12, 10, 8
 
 
 ### Determining your origin

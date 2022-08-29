@@ -1,5 +1,8 @@
 # Hollyphant Race
 
+![hollyphant](/images/hollyphant.jpg "Hollyphant")
+
+
 Hollyphants are Celestial elephantine creatures from the
 Upper Planes who work for the forces of good. Small,
 golden-furred, and winged, hollyphants perform a variety

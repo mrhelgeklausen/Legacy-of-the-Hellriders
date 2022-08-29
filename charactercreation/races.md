@@ -3,12 +3,12 @@
 ## Character races 
 Følgende raser er tilgjengelig:
 
-- Aasimar
+- [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Aasimar")
 - Dragonborn
 - Dwarf
 - Elf
-- Firborg
-- Genasi
+- [Firborg](https://5e.tools/races.html#firbolg_mpmm "Firborg")
+- [Genasi](https://5e.tools/races.html#genasi_mpmm "Genasi")
 - Gnome
 - Goiath
 - Half-elf

@@ -1,6 +1,6 @@
 # Character races 
 
-## Character races 
+## 5th edition Character races 
 Følgende raser er tilgjengelig:
 
 - [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
@@ -18,7 +18,14 @@ Følgende raser er tilgjengelig:
 - Human variant
 - Tiefling (Player's Handbook, Mordenkainen Presents: Monsters of the Multiverse)
 
-## Character races (One D&D)
+#### Flexible Racial Attributes
+When you select a race with attribute bonuses, you can
+increase one score by 2 and increase a different score by
+1, or increase three different scores by 1.
+
+<br><br>
+
+## One D&D playtest Character races 
 
 Følgende play-test raser er tilgjengelig:
 

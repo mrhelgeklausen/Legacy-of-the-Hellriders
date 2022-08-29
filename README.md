@@ -39,6 +39,10 @@ that a company of Riders had once ridden into the
 Hells themselves. And from this story, the Hellriders
 were named.
 
+
+![hellriders](images/hellriders.jpg "hellriders")
+
+
 ## Your Character in the World
 
 [Character creation](charactercreation "title")

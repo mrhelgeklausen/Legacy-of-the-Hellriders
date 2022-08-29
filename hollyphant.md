@@ -68,7 +68,8 @@ can wield a single weapon or hold a single item with your
 powerful trunk, but you do not have hands and cannot
 dual wield weapons or wield a weapon and a shield at the
 same time. Your AC is 13 + your Dexterity modifier.
-Poison Immunity. You are immune to poison damage
+
+**Poison Immunity**. You are immune to poison damage
 and the poisoned condition.
 
 **Telepathy**. You can telepathically speak to any creature

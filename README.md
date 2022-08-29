@@ -41,8 +41,8 @@ were named.
 
 ## Your Character in the World
 
-[Character creation](charactercreation "title")
-[House rules](houserules "House rules")
+- [Character creation](charactercreation "title")
+- [House rules](houserules "House rules")
 
 
 

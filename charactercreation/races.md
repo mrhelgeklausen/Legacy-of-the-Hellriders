@@ -1,12 +1,26 @@
-# Character races
+# Character races 
 
-When you choose your character’s Race, you
-determine whether your character is a member
-of the human race or of a fantastical race. This
-document provides descriptions and rules for
-the following Race options: Human, Ardling,
-Dragonborn, Dwarf, Elf, Gnome, Halfling, Orc,
-and Tiefling.
+## Character races 
+Følgende raser er tilgjengelig:
+
+- Aasimar
+- Dragonborn
+- Dwarf
+- Elf
+- Firborg
+- Genasi
+- Gnome
+- Goiath
+- Half-elf
+- Half-orc
+- Hafling
+- Human
+- Human variant
+- Tiefling
+
+## Character races (One D&D)
+
+Følgende play-test raser er tilgjengelig:
 
 ### HUMAN
 **Size**: Medium (about 4–7 feet tall) or Small

@@ -26,7 +26,7 @@ on starting equipment. The character keeps any
 unspent GP as spare coin.
 
 
-<div style="padding: 20px;background-color: #fff8c4;color: white;">
+<div style="padding: 20px;background-color: #fff8c4;color: #555;">
   <b>Ability score increases from elsewhere</b><br>
 Since 2014, characters have received ability score
 increases from several sources, either from a Race

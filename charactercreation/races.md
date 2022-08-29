@@ -4,7 +4,7 @@
 Følgende raser er tilgjengelig:
 
 - [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
-- Dragonborn
+- Dragonborn (Player's Handbook, Fizban’s Treasury of Dragons)
 - Dwarf
 - Elf
 - [Firborg](https://5e.tools/races.html#firbolg_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
@@ -16,7 +16,7 @@ Følgende raser er tilgjengelig:
 - Hafling
 - Human
 - Human variant
-- Tiefling
+- Tiefling (Player's Handbook, Mordenkainen Presents: Monsters of the Multiverse)
 
 ## Character races (One D&D)
 

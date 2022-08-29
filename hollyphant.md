@@ -1,6 +1,6 @@
 # Hollyphant Race
 
-![hollyphant](/images/hollyphant.jpg "Hollyphant")
+![hollyphant](images/hollyphant.jpg "Hollyphant")
 
 
 Hollyphants are Celestial elephantine creatures from the

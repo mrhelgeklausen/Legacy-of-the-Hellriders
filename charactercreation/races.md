@@ -166,6 +166,7 @@ consciousness.
 **Size**: Small (about 3–4 feet tall) <br>
 **Speed**: 30 feet <br>
 **Life Span**: 425 years on average
+
 As a Gnome, you have these special traits.
 Darkvision. You have Darkvision with a range
 of 60 feet. <br>
@@ -188,3 +189,91 @@ lineage).
 | Forest Gnome | You know the Minor _Illusion_ cantrip. <br>You can also cast the _Speak with Animals_ Spell with this trait. You can cast it with the trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any Spell Slots you have to cast the Spell.|
 | Rock Gnome | You know the Mending and _Prestidigitation_ cantrips. <br><br> In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, a fire starter, or a music box. Casting the Spell in this way consumes 10 GP worth of raw material (string, gears, and the like), which you provide during the casting. <br><br> When you create the device, you determine its function by choosing one effect from _Prestidigitation_; the device produces that effect whenever you or another creature takes a Bonus Action to touch the device and activate it. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell’s ignite-extinguish effect, you determine whether the device ignites  or extinguishes fire; the device doesn’t do both. <br><br> You can have three such devices in existence at a time, and each one dismantles itself 8 hours after its creation. You can also touch one of your devices and dismantle it as an Action. After a device is dismantled, the 10 GP of materials used to create it can be reclaimed. |
 
+
+### HALFLING TRAITS
+**Creature Type**: Humanoid <br>
+**Size**: Small (about 2–3 feet tall) <br>
+**Speed**: 30 feet <br>
+**Life Span**: 150 years on average
+
+As a Halfling, you have these special traits. <br>
+Brave. You have Advantage on saving throws
+you make to avoid or end the Frightened
+Condition on yourself. <br>
+**Halfling Nimbleness**. You can move through
+the space of any creature that is of a Size larger
+than yours, but you can’t stop there.
+Luck. When you roll a 1 on the d20 of a d20
+Test,* you can reroll the die, and you must use
+the new roll. <br>
+**Naturally Stealthy**. You have Proficiency in
+the Stealth Skill.
+
+
+###ORC TRAITS
+**Creature Type**: Humanoid <br>
+**Size**: Medium (about 6–7 feet tall) <br>
+**Speed**: 30 feet <br>
+**Life Span**: 80 years on average <br>
+
+As an Orc, you have these special traits. <br>
+**Adrenaline Rush**. You can take the Dash
+Action as a Bonus Action. When you do so, you
+gain a number of Temporary Hit Points equal to
+your Proficiency Bonus. <br>
+You can use this trait a number of times equal
+to your Proficiency Bonus, and you regain all
+expended uses when you finish a Long Rest.*
+Darkvision. You have Darkvision with a range
+of 60 feet.
+**Powerful Build**. You count as one Size larger
+when determining your carrying capacity and
+the weight you can push, drag, or lift.
+**Relentless Endurance**. When you are reduced
+to 0 Hit Points but not killed outright, you can
+drop to 1 Hit Point instead. Once you use this
+trait, you can’t do so again until you finish a
+Long Rest.*
+
+
+
+### TIEFLING TRAITS
+**Creature Type**: Humanoid <br>
+**Size**: Medium (about 4–7 feet tall) or Small
+(about 3–4 feet tall) , chosen when you select
+this Race <br>
+**Speed**: 30 feet <br>
+**Life Span**: 100 years on average
+
+As a Tiefling, you have these special traits. <br>
+**Darkvision**. You have Darkvision with a range
+of 60 feet. <br>
+**Fiendish Legacy**. You are the recipient of a
+fiendish legacy that grants you supernatural
+abilities. Choose a legacy from the Fiendish
+Legacies table: Abyssal, associated with Chaotic
+Evil planes; Chthonic, associated with Neutral
+Evil planes; or Infernal, associated with Lawful
+Evil planes. You gain the 1st-level benefit of the
+chosen legacy. <br>
+Starting at 3rd level and again at 5th level,
+you gain the ability to cast a higher-level Spell
+with this trait, as shown on the table. Once you
+cast the Spell with this trait, you can’t cast that
+Spell with it again until you finish a Long Rest*;
+however, you can cast the Spell using any Spell
+Slots you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your
+spellcasting ability for the Spells you cast with
+this trait (choose the ability when you select the
+lineage). <br>
+**Otherworldly Presence**. You know the
+Thaumaturgy cantrip. When you cast it with this
+trait, the Spell uses the same spellcasting ability
+you use for your Fiendish Legacy trait.
+
+| Legacy       | 1st Level  | 3rd Level   | 5th Level   |
+|--------------|-------------|-------------|-------------|
+| Abyssal | You have Resistance to Poison Damage. You also know the _Poison Spray_ cantrip. | _Ray of Sickness_ | _Hold Person_ |
+| Chthonic | You have Resistance to Necrotic Damage. You also know the _Chill Touch_ cantrip. | _False Life_ | _Ray of Enfeeblement_ |
+| Infernal | You have Resistance to Fire Damage. You also know the _Fire Bolt_ cantrip. | _Hellish Rebuke_ | _Darkness_ |

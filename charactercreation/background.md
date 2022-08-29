@@ -5,7 +5,7 @@
 character’s ability scores, choose two of them,
 and increase one by 2 and the other one by 1.
 Alternatively, choose three ability scores, and
-increase each of them by 1.[^1]
+increase each of them by 1.
 
 **Skill Proficiencies**. Choose two Skills. Your
 character gains Proficiency in them.
@@ -26,7 +26,7 @@ on starting equipment. The character keeps any
 unspent GP as spare coin.
 
 
-[^1]: Since 2014, characters have received ability score
+Since 2014, characters have received ability score
 increases from several sources, either from a Race
 that has the Ability Score Increase trait or from
 the ability score rules in Tasha’s Cauldron of

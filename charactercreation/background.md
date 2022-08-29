@@ -25,6 +25,10 @@ gains that Feat.
 on starting equipment. The character keeps any
 unspent GP as spare coin.
 
+**Sundered Shields**. When a Hellrider character wearing a non-magical shield is hit
+by a melee weapon attack, they can choose to have their
+shield destroyed and take no damage from the attack.
+
 
 <div style="padding: 20px;background-color: #fff8c4;color: #555;">
   <b>Ability score increases from elsewhere</b><br>

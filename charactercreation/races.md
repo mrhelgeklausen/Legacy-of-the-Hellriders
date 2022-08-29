@@ -3,14 +3,14 @@
 ## Character races 
 Følgende raser er tilgjengelig:
 
-- [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Aasimar")
+- [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
 - Dragonborn
 - Dwarf
 - Elf
-- [Firborg](https://5e.tools/races.html#firbolg_mpmm "Firborg")
-- [Genasi](https://5e.tools/races.html#genasi_mpmm "Genasi")
+- [Firborg](https://5e.tools/races.html#firbolg_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
+- [Genasi](https://5e.tools/races.html#genasi_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
 - Gnome
-- Goiath
+- [Goliath](https://5e.tools/races.html#goliath_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
 - Half-elf
 - Half-orc
 - Hafling

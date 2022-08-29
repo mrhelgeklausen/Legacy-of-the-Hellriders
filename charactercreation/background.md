@@ -18,7 +18,7 @@ Standard Languages and Rare Languages tables
 (these appear later in the document). Your
 character knows that language.
 
-**Feat**. Choose one 1st-level Feat. Your character
+**Feat**. Choose one  [1st-level Feat](feats "title") . Your character
 gains that Feat.
 
 **Equipment**. Your character gains 50 GP to spend

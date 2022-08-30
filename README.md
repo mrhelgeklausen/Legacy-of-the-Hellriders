@@ -1,7 +1,7 @@
 
 ![legacyofthehellrider](images/legacyofthehellriders.png "legacy of the hellrider")
 
-{% /header.md %}
+{% include_relative header.md %}
 
 
 

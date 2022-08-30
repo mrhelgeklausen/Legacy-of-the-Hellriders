@@ -44,3 +44,9 @@ adding a sense of urgency to the moment that it might
 not otherwise have.
 
 A failed Death Save result in one level of excaustion.
+
+## Healing Spirit (spell)
+The spell ends once the spirit has restored hit points a number of times equal to twice your spellcasting ability modifier (minimum of once)
+[Sage Advice](https://www.sageadvice.eu/if-healing-spirit-has-felt-too-effective-in-your-game-try-this-house-rule/ "")
+
+

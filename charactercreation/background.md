@@ -44,7 +44,8 @@ increases from Background, unless you forgo the
 older ability score increases to gain the increases
 from the Background rules here.
 </div>
+<br><br>
 
-[backgroundsamples](backgroundsamples, "Sample backgrounds")
+[Sample backgrounds](backgroundsamples "title")
 
 

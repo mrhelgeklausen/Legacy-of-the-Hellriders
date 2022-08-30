@@ -88,8 +88,9 @@ roll.
 **Repeatable**: Yes, but you must choose a different Spell list each time
 
 You have learned the basics of a particular
-magical tradition. Choose one Spell list: Arcane,*
-Divine,* or Primal.* You gain the following
+magical tradition. Choose one Spell list:
+[Arcane, Divine, or Primal](spelllist "spelllist")
+. You gain the following
 benefits related to that choice:
 
 **Two Cantrips**. You learn two cantrips of your

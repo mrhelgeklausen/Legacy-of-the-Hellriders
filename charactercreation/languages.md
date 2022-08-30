@@ -31,15 +31,16 @@ language are mentioned.
 
 
 ### Rare languages
-| Language             | Typical Users | 
-| -------------------- |-------------- | 
+
+| Language               | Typical Users | 
+| ---------------------- |-------------- | 
 | Abyssal                | Demons        |  
-| Celestial | Celestials |    
-| Deep Speech            | Aberrations       |     
-| Draconic               | Dragons         |     
+| Celestial              | Celestials    |    
+| Deep Speech            | Aberrations   |     
+| Draconic               | Dragons       |     
 | Druidic                | Druids        |     
 | Infernal               | Devils        |     
 | Primordial             | Elementals    |     
-| Sylvan                 | Fey      |     
-| Thieves’ Cant          | Rogues           |    
-| Undercommon            | Underdark folk           |   
+| Sylvan                 | Fey           |     
+| Thieves’ Cant          | Rogues        |    
+| Undercommon            | Underdark folk|   

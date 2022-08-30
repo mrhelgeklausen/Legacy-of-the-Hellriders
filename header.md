@@ -1,1 +1,1 @@
-This is the header | menu 1 | menu 2
+This is the header | menu xxx | menu yyyy

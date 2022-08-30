@@ -13,6 +13,15 @@ character gains Proficiency in them.
 **Tool Proficiency**. Choose one tool. Your character
 gains Tool Proficiency* with it.
 
+If you have Proficiency with a tool, you can add
+your Proficiency Bonus to any ability check you
+make that uses that tool. If you have Proficiency
+in the Skill that’s also used with that check, you
+have Advantage on the check too. This
+functionality means you can benefit from both
+Skill Proficiency and Tool Proficiency on the
+same ability check.
+
 **Language**. Choose one language from the
 [Standard or Rare Languages](languages "languages")
  tables. Your
@@ -23,7 +32,7 @@ gains that Feat.
 
 **Equipment**. Your character gains 50 GP to spend
 on starting equipment. The character keeps any
-unspent GP as spare coin.
+unspent GP as spare coin. (Gaming set cost 1 GP apiece, musical Instruments cost 20 GP apiece, Artisan’s Tools cost 15 GP apiece)
 
 **Sundered Shields**. When a Hellrider character wearing a non-magical shield is hit
 by a melee weapon attack, they can choose to have their

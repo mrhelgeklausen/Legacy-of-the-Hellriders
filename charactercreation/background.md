@@ -14,8 +14,8 @@ character gains Proficiency in them.
 gains Tool Proficiency* with it.
 
 **Language**. Choose one language from the
-Standard Languages and Rare Languages tables
-(these appear later in the document). Your
+[Standard or Rare Languages](languages "languages")
+ tables. Your
 character knows that language.
 
 **Feat**. Choose one  [1st-level Feat](feats "title") . Your character

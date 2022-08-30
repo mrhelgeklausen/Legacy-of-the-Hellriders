@@ -1,10 +1,12 @@
 
 # Starting languages
 Your character begins play knowing at least
-three languages: Common, a language provided
-by the character’s Background, and a language
-that you choose from the Standard Languages
-table below. Knowledge of a language means your character can communicate in that
+three languages: 
+- Common, 
+- a language provided by the character’s Background, 
+- and a language that you choose from the Standard Languages
+table below. 
+Knowledge of a language means your character can communicate in that
 language and can read and write it.
 
 The Standard Languages table lists languages

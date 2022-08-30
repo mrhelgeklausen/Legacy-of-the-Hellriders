@@ -1,10 +1,6 @@
 
 ![legacyofthehellrider](images/legacyofthehellriders.png "legacy of the hellrider")
 
-{% include_relative header.md %}
-
-
-
 Ah Elturgard! If any place in the world exemplifies
 humanity's potential for greatness, it is this nascent
 nation. Who could forget the shining sight of a host of its
@@ -56,6 +52,7 @@ were named.
 
 [House rules](houserules "House rules")
 
+-----
 
 
 

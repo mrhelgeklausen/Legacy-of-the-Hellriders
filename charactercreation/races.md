@@ -36,8 +36,8 @@ this Race <br>
 **Speed**: 30 feet <br>
 **Life Span**: 80 years on average
 
-As a Human, you have these special traits.
-Resourceful. You gain Inspiration* whenever
+As a Human, you have these special traits. <br>
+**Resourceful**. You gain Inspiration* whenever
 you finish a Long Rest.* <br>
 **Skillful**. You gain Proficiency in one Skill of
 your choice. <br>

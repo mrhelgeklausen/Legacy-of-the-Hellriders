@@ -1,6 +1,6 @@
 # Character creation
 
-{% include_relative header.md %}
+{% include header.md %}
 
 
 

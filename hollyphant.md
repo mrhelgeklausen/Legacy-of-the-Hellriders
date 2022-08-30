@@ -93,8 +93,10 @@ effects that you choose:
 - **Trumpet of Blasting**. Each creature in the cone must make a Constitution saving throw (DC 8 + your proficiency bonus + your Wisdom modifier). On a failed save, a creature takes 2d6 thunder damage and is deafened for 1 minute. The damage increases to 3d6 at
 6th level, 4d6 at 11th level, and 5d6 at 16th level. Nonmagical objects damaged by this ability take twice as much thunder damage.
 - **Trumpet of Sparkles**. Each creature in the cone must make a Constitution saving throw (DC 8 + your proficiency bonus + your Charisma modifier). Evilcreatures in the cone have disadvantage on their saving
-throw. On a failed save, any creature that is not Good takes 2d6 radiant damage. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. Hollyphant Magic. You know the light cantrip. When you
-reach 6th level, you can cast the following spells twice per day each: Bless, Cure Wounds, and Protection from Evil and Good.
+throw. On a failed save, any creature that is not Good takes 2d6 radiant damage. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. 
+
+**Hollyphant Magic**. You know the _light_ cantrip. When you
+reach 6th level, you can cast the following spells twice per day each: _Bless, Cure Wounds_, and _Protection from Evil and Good_.
 
 When you reach 11th level, you can also <span style="background-color:black; color: black">dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) dette finner du ut når du er level 11! :) </span>
 .

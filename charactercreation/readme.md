@@ -1,8 +1,5 @@
 # Character creation
 
-{% include header.md %}
-
-
 
 ## Abilities
 We use the default array of 15, 14, 13, 12, 10, 8

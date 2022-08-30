@@ -21,12 +21,16 @@ with at least 1 hit point can:
 - Regain and use abilities that indicate they require a long rest.
 - Regain a number of spent Hit Dice equal to half the character’s total number of Hit Dice (minimum 1).
 - Reduce their exhaustion level by 1, if they have also ingested food and drink.
+- _Spend Hit Dice, one at a time, to regain hit points (up to their maximum Hit Dice, which is equal to the character’s level)._
 
 ### Full Rest
 When taking 24 hours downtime in a safe
 area a character with at least 1 hit point can:
-- Same features as a long rest.
 - Regain all lost hit points.
+- _Regain and use abilities that indicate they require a long rest._
+- _Regain a number of spent Hit Dice equal to half the character’s total number of Hit Dice (minimum 1)._
+- _Reduce their exhaustion level by 1, if they have also ingested food and drink._
+
 
 ## Burgeoning Heroes
 Each character begins with 5 extra hit points.

@@ -1,7 +1,7 @@
 # Character races 
 
 ## 5th edition Character races 
-Følgende raser er tilgjengelig:
+Følgende raser er tilgjengelig (Om disse ikke er godt nok, så må du ha snabla gode argumenter hvorfor :) ):
 
 - [Aasimar](https://5e.tools/races.html#aasimar_mpmm "Mordenkainen Presents: Monsters of the Multiverse")
 - Dragonborn (Player's Handbook, Fizban’s Treasury of Dragons)

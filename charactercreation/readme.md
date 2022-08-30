@@ -14,6 +14,8 @@ choose three things for the character:
 
 [Races](races "title")
 
+[Arcane, Divine, or Primal spelllist](spelllist "spelllist")
+
 [Backgrounds](background "title")
 
 [Languages](languages "title")

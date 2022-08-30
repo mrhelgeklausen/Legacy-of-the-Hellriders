@@ -8,7 +8,7 @@ system. This makes the use of resources lit Hit Dice,
 potions and spells more important to players.
 
 ### Short Rest
-When taking a 10 minute downtime a
+When taking a 10 minute 🆕 downtime a
 character can:
 
 Regain and use abilities that indicate they require a

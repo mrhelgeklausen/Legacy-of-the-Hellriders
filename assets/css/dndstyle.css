@@ -1,6 +1,9 @@
 nav {
  background: #dedede; 
+ height: 3rem;
+ line-height: 3rem;
 }
+.markdown-body nav ul,
 nav ul {
   list-style: none;
   margin-bottom: 0;
@@ -20,6 +23,7 @@ nav li a {
  font-size: 0.8rem;
  outline: none;
  padding: 0 2rem;
+	color: black;
 }
 
 nav li a.active {

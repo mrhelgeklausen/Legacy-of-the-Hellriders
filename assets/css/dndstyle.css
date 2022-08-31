@@ -1,13 +1,14 @@
 nav {
- background: #dedede; 
- height: 3rem;
- line-height: 3rem;
+ 	background: #dedede; 
+ 	height: 3rem;
+ 	line-height: 3rem;
+	overflow:hidden;
 }
 .markdown-body nav ul,
 nav ul {
 	display:flex;
-  list-style: none;
-  margin-bottom: 0;
+   	list-style: none;
+	margin-bottom: 0;
 	padding-left: 20px;
 	text-transform: uppercase;
 }

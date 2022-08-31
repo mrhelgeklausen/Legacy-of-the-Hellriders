@@ -16,8 +16,8 @@
                 
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/charactercreation/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Character Creation</a></li>
-  <li class="{% if page.url contains '/houserules/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">House rules</a></li>
+  <li class="{% if page.url contains '/charactercreation/' %} active {% endif %}"><a href="{{ "/charactercreation/" | absolute_url }}">Character Creation</a></li>
+  <li class="{% if page.url contains '/houserules/' %} active {% endif %}"><a href="{{ "/houserules/" | absolute_url }}">House rules</a></li>
 </ul>
             </nav>
         {{ content }}

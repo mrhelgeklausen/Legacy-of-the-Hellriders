@@ -27,6 +27,7 @@ nav li a {
  outline: none;
  padding: 0 1.5rem;
 	color: black;
+	text-align:center;
 }
 
 nav li.active a {

@@ -1,3 +1,27 @@
-.helgemenu{
-  font-size:14px;
+nav {
+ background: #dedede; 
+}
+nav ul {
+  list-style: none;
+  margin-bottom: 0;
+	padding-left: 0;
+	text-transform: uppercase;
+}
+
+
+nav li {
+ list-style: none; 
+ display: block;
+ padding-left: 0;
+}
+
+nav li a {
+ display: block;
+ font-size: 0.8rem;
+ outline: none;
+ padding: 0 2rem;
+}
+
+nav li a.active {
+ background: #ffffff; 
 }

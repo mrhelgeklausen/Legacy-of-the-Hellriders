@@ -32,5 +32,6 @@ choose three things for the character:
 
 <br>
 <br>
-<br>
+[Elturian names](Elturiannames "Elturiannames")
+
 [Arcane, Divine, or Primal spelllist](spelllist "spelllist")

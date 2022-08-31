@@ -39,7 +39,9 @@ Hells themselves. And from this story, the Hellriders
 were named.
 
 
-![hellriders](images/hellriders.jpg "hellriders")
+![hellriders](images/hellriders1.jpg "hellriders")
+
+![hellriders](images/hellriders2.jpg "hellriders")
 
 
 

@@ -55,6 +55,7 @@ code::before {
 
 
 code {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   display: block !important;
   background-color: var(--compendium-rules-sidebar-color, #DAE4C1) !important;
   position: relative !important;

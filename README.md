@@ -41,15 +41,5 @@ were named.
 ![hellriders](images/hellriders.jpg "hellriders")
 
 
-## Your Character in the World
-
-[Character creation](charactercreation "title")
-
-## House rules
-
-[House rules](houserules "House rules")
-
------
-
 
 

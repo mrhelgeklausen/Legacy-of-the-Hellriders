@@ -1,4 +1,5 @@
 # Handouts
+This page contains the handout received through the campaign.
 
 
 ## Flaming Fist Enlistments Papers

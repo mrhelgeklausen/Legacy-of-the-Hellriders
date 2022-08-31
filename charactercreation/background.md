@@ -39,21 +39,20 @@ by a melee weapon attack, they can choose to have their
 shield destroyed and take no damage from the attack.
 
 
-<div style="padding: 20px;background-color: #fff8c4;color: #555;">
-  <b>Ability score increases from elsewhere</b><br>
-Since 2014, characters have received ability score
-increases from several sources, either from a Race
-that has the Ability Score Increase trait or from
-the ability score rules in Tasha’s Cauldron of
-Everything, Monsters of the Multiverse, and other
-books. If you make a character using one of those
-older sources and get ability score increases from
-it, the character doesn’t also get ability score
-increases from Background, unless you forgo the
-older ability score increases to gain the increases
-from the Background rules here.
-</div>
-<br><br>
+> **Ability score increases from elsewhere**
+> 
+> Since 2014, characters have received ability score
+> increases from several sources, either from a Race
+> that has the Ability Score Increase trait or from
+> the ability score rules in Tasha’s Cauldron of
+> Everything, Monsters of the Multiverse, and other
+> books. If you make a character using one of those
+> older sources and get ability score increases from
+> it, the character doesn’t also get ability score
+> increases from Background, unless you forgo the
+> older ability score increases to gain the increases
+> from the Background rules here.
+
 
 [Sample backgrounds](backgroundsamples "title")
 

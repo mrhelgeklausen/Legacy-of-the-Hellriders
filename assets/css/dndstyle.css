@@ -51,6 +51,9 @@ code::before {
   height: 11px !important;
   position: absolute !important;
   z-index: -1;
+	top: -13px !important;
+right: 0.1px !important;
+left: 0.1px !important;
 }
 
 
@@ -74,6 +77,9 @@ code {
   border-right: 1.5px solid #b3b3b3 !important;
   color: #242527 !important;
   filter: drop-shadow(0px 5px 8px #ccc);
+	line-height: 1.6 !important;
+font-size: 14px !important;
+color: #242527 !important;
 }
 
 code::after {
@@ -86,6 +92,9 @@ code::after {
   position: absolute !important;
   z-index: -1;
   transform: scaleY(-1);
+	bottom: -13px !important;
+right: -0.1px !important;
+left: 0.1px !important;
 }
 
 

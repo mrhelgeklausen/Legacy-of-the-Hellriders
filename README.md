@@ -1,17 +1,18 @@
 Ah Elturgard! If any place in the world exemplifies
 humanity's potential for greatness, it is this nascent
 nation. Who could forget the shining sight of a host of its
-Companions, paladins all, riding out on the field, banners
+Hellriders, riding out on the field, banners
 taught and snapping, breastplates and shields agleam
 with the symbol of Elturgard, and each bearing a holy
 symbol of his or her god—armor for the soul. We have
 no shortage of the good and the just among my people,
-but the sheer zeal and genuine bravado the Companions
+but the sheer zeal and genuine bravado the Hellriders
 have in pursuit of righteousness seems to me something
 uniquely human. And it's not just those few touched by
 the gods who seek these high ideals; Elturgard's armed
 forces swell with men and women who aspire to join
-the Companions.
+the Hellriders.
+
 Whenever Baldur's Gate has tried to seize too much
 territory in Elturgard's eyes, Elturel has responded by
 imposing a heavy tax on shipments headed downriver.

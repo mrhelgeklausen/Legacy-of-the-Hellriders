@@ -31,7 +31,8 @@ choose three things for the character:
 [Languages](languages "title")
 
 <br>
-<br>
+
+
 [Elturian names](Elturiannames "Elturiannames")
 
 [Arcane, Divine, or Primal spelllist](spelllist "spelllist")

@@ -3,7 +3,7 @@ nav {
  	height: 3rem;
  	line-height: 3rem;
 	overflow:hidden;
-	margin: 0 0 0 15px;
+	margin: 0 0 15px 0;
 }
 .markdown-body nav ul,
 nav ul {

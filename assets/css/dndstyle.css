@@ -28,7 +28,7 @@ main.markdown-body h1 {
 }
 
 
-main {
+main.markdown-body {
 
     background: white;
     position:relative;
@@ -39,7 +39,7 @@ main {
    
 }
 
-main::after {
+main.markdown-body::after {
     content: "";
     display: block;
     background: 0 0 transparent url(https://www.dndbeyond.com/attachments/0/508/ddb-borders-1180.png) no-repeat;

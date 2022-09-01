@@ -6,7 +6,7 @@ body {
 
 
 
-main .markdown-body h1 {
+main.markdown-body h1 {
     margin: 0;
     text-align: left;
     font-size: 20px;

@@ -144,57 +144,6 @@
 
 
 
-h1.newheader {
-    margin: 0;
-    text-align: left;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
-    text-transform: uppercase;
-    padding: 5px 15px;
-    color: #FDFDFD !important;
-      background-image: url(https://www.dndbeyond.com/attachments/0/507/1180darkbar.png);
-    background-size: 102% 100%;
-    background-position: -6px;
-    position: absolute;
-    top: -8px;
-    left: 0;
-    right: 0;
-    padding-bottom: 0em;
-    border-bottom: 0px ;
-    margin-top: 0px;
-}
-
-
-.main-inner-2 {
-
-    background: white;
-    position:relative;
-    padding-bottom:11px;
-    margin-bottom: 20px;
-	padding-top: 35px;
-   
-}
-
-.main-inner-2::after {
-    content: "";
-    display: block;
-    background: 0 0 transparent url(https://www.dndbeyond.com/attachments/0/508/ddb-borders-1180.png) no-repeat;
-    position: absolute;
-    height: 12px;
-    background-size: 100% 12px;
-    bottom: -12px;
-    left: -1px;
-    right: -1px;
-
-}
-
-
-
-.main-inner-inner-2 {
-
-    padding:0 16px 0 16px;
-}
 
 
 
@@ -205,9 +154,7 @@ h1.newheader {
 
 
 
-
-
-
+<!--
 
 nav {
  	background: #dedede; 
@@ -224,7 +171,6 @@ nav ul {
 	padding-left: 20px;
 	text-transform: uppercase;
 }
-
 
 nav li {
  list-style: none; 
@@ -250,7 +196,7 @@ nav li.active a {
 }
 
 
-
+-->
 
 
 

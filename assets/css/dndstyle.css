@@ -1,6 +1,8 @@
+body {
+	background: url(https://www.dndbeyond.com/attachments/0/475/br2k.jpg no-repeat center ), url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9;
+}
 
-
-h1.newheader {
+h1 {
     margin: 0;
     text-align: left;
     font-size: 20px;

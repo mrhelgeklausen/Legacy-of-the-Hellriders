@@ -2,7 +2,7 @@ body {
 	background: url(https://www.dndbeyond.com/attachments/0/475/br2k.jpg no-repeat center ), url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9;
 }
 
-h1 {
+h1.newheader {
     margin: 0;
     text-align: left;
     font-size: 20px;
@@ -24,7 +24,7 @@ h1 {
 }
 
 
-.main-inner {
+.main-inner-2 {
 
     background: white;
     position:relative;
@@ -34,7 +34,7 @@ h1 {
    
 }
 
-.main-inner::after {
+.main-inner-2::after {
     content: "";
     display: block;
     background: 0 0 transparent url(https://www.dndbeyond.com/attachments/0/508/ddb-borders-1180.png) no-repeat;
@@ -49,7 +49,7 @@ h1 {
 
 
 
-.main-inner-inner {
+.main-inner-inner-2 {
 
     padding:0 16px 0 16px;
 }

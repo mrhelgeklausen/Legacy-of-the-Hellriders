@@ -13,13 +13,12 @@
     </head>
     <body>
         
-        <header>
-        
-   
-        
-        </header>
+
         
         <main role="main" class="phb container-lg px-3 my-5 markdown-body">
+
+            
+        <header>
         <img src="/images/legacyofthehellriders.png" alt="legacyofthehellrider" title="legacy of the hellrider" >
         <nav>
             <ul class="links">
@@ -27,7 +26,13 @@
               <li class="{% if page.url contains '/charactercreation' %} active {% endif %}"><a href="{{ "/charactercreation/" | absolute_url }}">Character Creation</a></li>
               <li class="{% if page.url contains '/houserules' %} active {% endif %}"><a href="{{ "/houserules" | absolute_url }}">Rules</a></li>
             </ul>
-        </nav> 
+        </nav>        
+   
+        
+        </header>
+            
+            
+            
         {{ content }}
 
         </main>

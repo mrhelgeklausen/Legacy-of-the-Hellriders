@@ -15,7 +15,7 @@
         
         <header>
         
-        <img src="/images/legacyofthehellriders.png" alt="legacyofthehellrider" title="legacy of the hellrider">
+        <img src="/images/legacyofthehellriders.png" alt="legacyofthehellrider" title="legacy of the hellrider" style="max-width: 100%;">
         <nav>
             <ul class="links">
               <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
@@ -27,9 +27,11 @@
         </header>
         
         <main role="main" class="phb container-lg px-3 my-5 markdown-body">
-
+<div class="main-inner">
         {{ content }}
+    </div>
         </main>
+            
         <footer role="contentinfo" id="contentinfo">
         </footer>
     </body>

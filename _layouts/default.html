@@ -25,11 +25,9 @@
             <h1>Navbar</h1>
           </div>
           <div class="menu-items">
-            <li><a href="/">Home</a></li>
-            <li><a href="/charactercreation/">Character Creation</a></li>
-            <li><a href="#">blogs</a></li>
-            <li><a href="#">portfolio</a></li>
-            <li><a href="#">contact</a></li>
+              <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+              <li class="{% if page.url contains '/charactercreation' %} active {% endif %}"><a href="{{ "/charactercreation/" | absolute_url }}">Character Creation</a></li>
+              <li class="{% if page.url contains '/houserules' %} active {% endif %}"><a href="{{ "/houserules" | absolute_url }}">Rules</a></li>
           </div>
         </div>
       </div>
@@ -39,13 +37,7 @@
         
         <header class="container-lg px-3 my-5 markdown-body">
         <img src="/images/legacyofthehellriders.png" alt="legacyofthehellrider" title="legacy of the hellrider" style="width:50%" >
-        <nav>
-            <ul class="links">
-              <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-              <li class="{% if page.url contains '/charactercreation' %} active {% endif %}"><a href="{{ "/charactercreation/" | absolute_url }}">Character Creation</a></li>
-              <li class="{% if page.url contains '/houserules' %} active {% endif %}"><a href="{{ "/houserules" | absolute_url }}">Rules</a></li>
-            </ul>
-        </nav>        
+       
    
         
         </header>

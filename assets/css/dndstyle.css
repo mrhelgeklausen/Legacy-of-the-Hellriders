@@ -1,7 +1,7 @@
 
 .container {
   max-width: 1012px;
-  width: 90%;
+  width: 100%;
   margin: auto;
 }
 
@@ -98,8 +98,7 @@
   transform: translate(-150%);
   display: flex;
   flex-direction: column;
-  margin-left: -40px;
-  padding-left: 50px;
+  margin-left: -28px;
   transition: transform 0.5s ease-in-out;
   text-align: center;
 }

@@ -154,49 +154,6 @@
 
 
 
-<!--
-
-nav {
- 	background: #dedede; 
- 	height: 3rem;
- 	line-height: 3rem;
-	overflow:hidden;
-	margin: 0 0 15px 0;
-}
-.markdown-body nav ul,
-nav ul {
-	display:flex;
-   	list-style: none;
-	margin-bottom: 0;
-	padding-left: 20px;
-	text-transform: uppercase;
-}
-
-nav li {
- list-style: none; 
- display: block;
- padding-left: 0;
-}
-
-nav li a {
- display: block;
- font-size: 0.8rem;
- outline: none;
- padding: 0 1.5rem;
-	color: black;
-	text-align:center;
-}
-
-nav li.active a {
- background: #ffffff; 
-}
-
-.markdown-body nav li+li {
-    margin-top: 0em;
-}
-
-
--->
 
 
 

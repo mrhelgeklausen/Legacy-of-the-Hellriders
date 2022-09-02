@@ -100,6 +100,7 @@
   flex-direction: column;
   transition: transform 0.5s ease-in-out;
   text-align: center;
+	background:white;
 }
 
 .navbar .menu-items li {

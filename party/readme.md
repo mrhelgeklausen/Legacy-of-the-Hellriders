@@ -42,7 +42,7 @@ En gledes dag som snart snur seg og biter fra seg.
 # Bart
 Fremføres av Mads
 
-Det er bare noen år siden du følte kallet å dra sørover til Elturel. Du vet ikke hvorfor denne plassen kalte det på deg, men du føler en tilknytning her. Folken i byen har tatt godt i mot deg, der du fremfør sanger om land og steder fra fremmende strøk.
+Det er bare noen år siden du følte kallet å dra sørover til Elturel. Du vet ikke hvorfor denne plassen kalte det på deg, men du føler en tilknytning her. Folken i byen har tatt godt i mot deg, der du fremfør sanger om land og steder fra fremmende strøk. Du merker at Hellridere spesielt liker sangene dine og store slag og helter som vinner og mørkets krefter.
 
 Alt så ut som skulle være en perferkt dag med mange tilreisende da det utenkelige skjedde.
 

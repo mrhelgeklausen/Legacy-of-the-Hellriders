@@ -23,8 +23,9 @@ Mamma **Heidrun** og Ina er med på innvielsen. Dere er alle uviten hva som snar
 Fremføres av Magne
 
 Kasmodan har utallige ganger vært med faren **Thimmiuk** i smia for å lage våpen og rustning til Helleriders og Order of the Companions. Moren din **Gillydd**
-fikk såvidt sett deg etter du kom tilbake fra vaktturnusen din for du ville 
+fikk såvidt sett deg etter du kom tilbake fra vaktturnusen din før faren din setter deg til å hente mer metall til smia.
 
+Du glemmer aldri det synet som snur alt opp ned.
 
 
 

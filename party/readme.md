@@ -26,6 +26,9 @@ Kasmodan har utallige ganger vært med faren **Thimmiuk** i smia for å lage vå
 fikk såvidt sett deg etter du kom tilbake fra vaktturnusen din for du ville 
 
 
+
+
+![Steffan](pc_steffan.png)
 # Buvil
 Fremføres av Steffan
 

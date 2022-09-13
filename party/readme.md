@@ -19,11 +19,16 @@ Mamma **Heidrun** og Ina er med på innvielsen. Dere er alle uviten hva som snar
 # Kasmodan
 Fremføres av Magne
 
-Kasmodan har utallige ganger vært med faren **Thimmiuk** i smia for å lage våpen og rustning til Helleriders og Order of the Companions. Moren din,  **Gillydd**
+Kasmodan har utallige ganger vært med faren **Thimmiuk** i smia for å lage våpen og rustning til Helleriders og Order of the Companions. Moren din **Gillydd**
+fikk såvidt sett deg etter du kom tilbake fra vaktturnusen din for du ville 
 
 
 # Buvil
 Fremføres av Steffan
+
+Buvil vokste opp som foreldreløs. Du ble tatt hånd av Hellerider da du var 12 år. Nå er du endelig gammel nok å av gi enden og bli selv en Hellrider. I stedet for foreldrene din, så skal bestevennen din **Reya Mantlemorn** være med deg.
+
+En gledes dag som snart snur seg og biter fra seg.
 
 
 # Bart

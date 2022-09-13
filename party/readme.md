@@ -37,7 +37,7 @@ Buvil vokste opp som foreldreløs. Du ble tatt hånd av Hellerider da du var 12 
 En gledes dag som snart snur seg og biter fra seg.
 
 
-![Mads](pc_mads.png)
+![Mads](pc_mads2.png)
 # Bart
 Fremføres av Mads
 

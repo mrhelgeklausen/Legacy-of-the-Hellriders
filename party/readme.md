@@ -8,6 +8,7 @@ Einar var sammen med søsteren **Morgenstjerne** og broren **Skyggespill**. Hell
 På den skjebnesvanger dagen var Einar og søskene i bryllupet til Vina og **Bertrand**.
 
 
+![Shang](pc_roger.png)
 # Shang Dol
 Fremføres av Roger
 
@@ -16,6 +17,8 @@ Når Shang var 14 år dro faren **Mao** sammen med døttrene **Mien** og **Ina**
 Mamma **Heidrun** og Ina er med på innvielsen. Dere er alle uviten hva som snart kommer til å skje.
 
 
+
+![Magne](pc_magne.png)
 # Kasmodan
 Fremføres av Magne
 

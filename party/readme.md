@@ -8,7 +8,7 @@ Einar var sammen med søsteren **Morgenstjerne** og broren **Skyggespill**. Hell
 På den skjebnesvanger dagen var Einar og søskene i bryllupet til Vina og **Bertrand Triest**.
 
 
-![Shang](pc_roger.png)
+![Shang](pc_roger2.png)
 # Shang Dol
 Fremføres av Roger
 

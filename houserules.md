@@ -8,7 +8,7 @@ system. This makes the use of resources lit Hit Dice,
 potions and spells more important to players.
 
 ### Short Rest
-When taking a 10 minute 🆕 downtime a
+When taking a <span style="background:yellow">10 minute</span>  downtime a
 character can:
 
 Regain and use abilities that indicate they require a
@@ -21,13 +21,13 @@ with at least 1 hit point can:
 - Regain and use abilities that indicate they require a long rest.
 - Regain a number of spent Hit Dice equal to half the character’s total number of Hit Dice (minimum 1).
 - Reduce their exhaustion level by 1, if they have also ingested food and drink.
-- You do NOT regain all lost hit points. 🆕
+- <span style="background:yellow">You do NOT regain all lost hit points. </span>
 - _Spend Hit Dice, one at a time, to regain hit points (up to their maximum Hit Dice, which is equal to the character’s level)._
 
 ### Full Rest
 When taking 24 hours downtime in a safe
 area a character with at least 1 hit point can:
-- Regain all lost hit points. 🆕
+- <span style="background:yellow">Regain all lost hit points. </span>
 - _Regain and use abilities that indicate they require a long rest._
 - _Regain a number of spent Hit Dice equal to half the character’s total number of Hit Dice (minimum 1)._
 - _Reduce their exhaustion level by 1, if they have also ingested food and drink._

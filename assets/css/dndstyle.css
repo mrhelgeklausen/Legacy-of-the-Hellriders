@@ -39,6 +39,7 @@ border-bottom: 2px solid #c9ad6a;
   justify-content: space-between;
   align-items: center;
   height: 62px;
+	width: 100%;
 }
 
 .navbar .menu-items {

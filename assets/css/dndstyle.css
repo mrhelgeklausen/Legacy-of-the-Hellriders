@@ -1,4 +1,4 @@
-.main-inner-inner .markdown-body h1,
+ .markdown-body .main-inner-inner h1,
  {
     border-bottom: 0px solid #c9ad6a;
     color: #58180D;
@@ -6,13 +6,13 @@
 
 
 
-.main-inner-inner .markdown-body h2 {
+ .markdown-body .main-inner-inner h2 {
     border-bottom: 2px solid #c9ad6a;
     color: #58180D;
 }
 
 
-.main-inner-inner .markdown-body h3 {
+ .markdown-body .main-inner-inner h3 {
     border-bottom: 0px solid #c9ad6a;
     color: #58180D;
 	margin-bottom: 2px;

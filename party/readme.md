@@ -29,7 +29,7 @@ Du glemmer aldri det synet som snur alt opp ned.
 
 
 
-![Steffan](pc_steffan.png)
+![Steffan](pc_steffan2.png)
 # Buvil
 Fremføres av Steffan
 

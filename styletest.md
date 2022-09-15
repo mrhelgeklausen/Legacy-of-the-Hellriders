@@ -1,4 +1,4 @@
-
+# Timeline
 
 {% for time in site.timeline %}
   <h4>{{ time.title }}</h4>

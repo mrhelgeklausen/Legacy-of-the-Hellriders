@@ -1,8 +1,4 @@
-<div style="display:hidden">
-
-![TheParty](theparty.png)
-
-</div>
+<span style="display:none"> ![TheParty](theparty.png) </span>
 
 
 

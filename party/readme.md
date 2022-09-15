@@ -1,3 +1,12 @@
+<div style="display:hidden">
+
+![TheParty](theparty.png)
+
+</div>
+
+
+
+
 ![Einar](pc_einar.png)
 ## Einar
 Tabaxi Rogue, Fremføres av Sigurd

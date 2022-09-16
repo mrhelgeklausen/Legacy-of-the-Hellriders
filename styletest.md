@@ -1,9 +1,9 @@
 # Timeline
 
-{% for time in site.timeline %}
-  <h4>{{ time.title }}</h4>
-{% endfor %}
-
+ The following people are members of our research team:
+ {% for event in site.events %}
+ - {{ event.title }}, role: {{ event.date }}
+ {% endfor %}
 
 
 

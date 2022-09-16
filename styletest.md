@@ -4,6 +4,43 @@
  {% for event in site.events %}
  - {{ event.title }}, role: {{ event.date }}
  {% endfor %}
+ 
+ 
+ 
+ <section class="timeline">
+  <div class="container">
+    
+  {% for event in site.events %}   
+    <div class="timeline-item">
+      <div class="timeline-img"></div>
+
+      <div class="timeline-content js--fadeInRight">
+        <h2>{{ event.title }}</h2>
+        <div class="date">{{ event.date }}</div>
+        <p>{{ event.description }}</p>
+        <a class="bnt-more" href="javascript:void(0)">More</a>
+      </div>
+    </div> 
+
+ {% endfor %}
+
+    </div>   
+
+    
+
+
+
+  </div>
+</section>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 

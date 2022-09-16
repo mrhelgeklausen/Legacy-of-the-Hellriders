@@ -4,8 +4,8 @@ events:
     title: "Ankommer Baldur's Gate"
     description: "Dere ankommer byen med flykningene"
     date: "30.04 1494 DR"
-    image: "helge.jpg"
   -
     title: "Elturel forsvinner"
     description: "Hele byen forsvinner, og etterlater seg et stort krater"
     date: "20.04 1494 DR"
+    image: "/timeline/h20.04.png"

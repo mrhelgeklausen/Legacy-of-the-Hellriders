@@ -14,7 +14,7 @@
     <div class="timeline-item">
       <div class="timeline-img"></div>
 
-      <div class="timeline-content js--fadeInRight">
+      <div class="timeline-content">
         <h2>{{ event.title }}</h2>
         <div class="date">{{ event.date }}</div>
         <p>{{ event.description }}</p>
@@ -27,10 +27,10 @@
       </div>
     </div> 
 
- {% endfor %}
+
 
     </div>   
-
+ {% endfor %}
     
 
 

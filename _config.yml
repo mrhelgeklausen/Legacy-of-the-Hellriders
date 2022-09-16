@@ -1,14 +1,10 @@
 
 events:
   -
-    title: "Sarah Becker"
-    description: "project lead"
-    date: "2016-02-01"
+    title: "Ankommer Baldur's Gate"
+    description: "Dere ankommer byen med flykningene"
+    date: "30.04 1494 DR"
   -
-    title: "Jane Smith"
-    description: "maintainer"
-    date: "2018-03-15"
-  -
-    title: "Albert Hamilton"
-    description: "editor"
-    date: "2017-12-01"
+    title: "Elturel forsvinner"
+    description: "Hele byen forsvinner, og etterlater seg et stort krater"
+    date: "20.04 1494 DR"

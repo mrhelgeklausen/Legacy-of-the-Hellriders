@@ -15,7 +15,20 @@
       <div class="timeline-img"></div>
 
       <div class="timeline-content">
-        <h2>{{ event.title }}</h2>
+       
+       {% if event.image %}
+         <div class="timeline-img-header" style="background: url({{ event.image }})">
+           <h2>Card Title</h2>
+         </div>
+       {% else %}
+         <h2>{{ event.title }}</h2>
+       {% endif %}
+       
+       
+       
+       
+    
+       
         <div class="date">{{ event.date }}</div>
         <p>{{ event.description }}</p>
        

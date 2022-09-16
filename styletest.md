@@ -18,6 +18,11 @@
         <h2>{{ event.title }}</h2>
         <div class="date">{{ event.date }}</div>
         <p>{{ event.description }}</p>
+       
+       {% if event.image %}
+         {{ event.image }}
+       {% endif %}
+       
         <a class="bnt-more" href="javascript:void(0)">More</a>
       </div>
     </div> 

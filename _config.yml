@@ -1,1 +1,14 @@
 
+events:
+  -
+    title: "Sarah Becker"
+    description: "project lead"
+    date: "2016-02-01"
+  -
+    title: "Jane Smith"
+    description: "maintainer"
+    date: "2018-03-15"
+  -
+    title: "Albert Hamilton"
+    description: "editor"
+    date: "2017-12-01"

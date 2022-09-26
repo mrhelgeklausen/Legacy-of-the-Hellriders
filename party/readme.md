@@ -51,4 +51,7 @@ Det er bare noen år siden du følte kallet å dra sørover til Elturel. Du vet 
 
 Alt så ut som skulle være en perferkt dag med mange tilreisende da det utenkelige skjedde.
 
+## Aze the Ghost
+Human Warlock, Fremføres av Bjørgulf
+Azeiron...
 

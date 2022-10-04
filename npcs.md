@@ -1,6 +1,6 @@
 # Flyktninger
 
-- **Vina Krol**, høygravid, Einars stemor
+- **Vina Krol**, høygravid, Einars fostermor
 - **Gillydd Fireforge**, Kasmodan mor
 - **Dara**, 10 år gammel, priestess of Ilmater
 - **Ghorin**, gammel mann, geit som heter Clyde

@@ -10,3 +10,4 @@
 
 - High Overseer **Thavius Kreeg**, leder av Elturel og The Order of the Companions
 - Grand Duke **Ulder Ravenguard**, leder av Flaming Fist, en av fire Grand Duke som styrer Baldur's Gate
+- **Reya Mantlemorn**, sersjant i Hellriders

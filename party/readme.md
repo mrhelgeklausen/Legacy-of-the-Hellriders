@@ -51,7 +51,8 @@ Det er bare noen år siden du følte kallet å dra sørover til Elturel. Du vet 
 
 Alt så ut som skulle være en perferkt dag med mange tilreisende da det utenkelige skjedde.
 
+
+![Bjørgulf](pc_bjorgulf.png)
 ## Aze the Ghost
 Human Warlock, Fremføres av Bjørgulf
-Azeiron...
-
+Azeiron aka Aze vokste opp blant alver. Moren, Lucinda, var enke etter en halvalv, avdøde Azeirons far Endoron, men moren fant en ny mann, alven Undareilond, som hun levde sammen med i en alvelandsby i en stor skog i Faerun. Moren døde da Azeiron var 10 år etter at de to hadde bodd blant alvene i 7 år. Azeiron bodde der et år til med stefaren, men følte ikke at han passet ikke inn og forlot alvesamfunnet og rømte til Waterdeep, og vokste opp som innbruddstyv i storbyen. Stjal en gang  (19 år gammel) et mektig våpen fra Shadowfell. Våpenet lot ham gå fra det i live (han fikk leve) mot en pakt som gjorde ham til Hexblade. Han fikk senere et kall fra våpenet om å forlate byen og slå seg sammen med Hellraiders. Fikk navnet på lederen i en visjon sendt fra Shadowfell våpenet.

@@ -14,7 +14,8 @@
 - High Overseer **Thavius Kreeg**, leder av Elturel og The Order of the Companions
 - Grand Duke **Ulder Ravenguard**, leder av Flaming Fist, en av fire Grand Duke som styrer Baldur's Gate
 - **Reya Mantlemorn**, sersjant i Hellriders
-
+- Captain **Darmin Zodge**, gitt dere oppdraget å finne hvem som dreper flykningene i byen
+- **Tarina**, informant
 
 # Forsvunnet med Elturel
 - **Artha** (25) - søster til Kasmodan

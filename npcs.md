@@ -20,19 +20,6 @@
 - **Marvias Fleecefoot**, halfling, ukjent, fant Wemba Oshrat
 - **Leylenna Candulhallow**, eier av Candulhallow's Funeral Arrangements
 
-## Clues
-- Clue 1: Tanner's fluid, often used in tanneries to rotten and loosen the hair of hides
-- Clue 2: Forgered refugees papers
-
-## Drepte personer
-- Edmao Eduarda, funnet 10 dager siden
-- Wemba Oshrat, funnet 8 dager siden
-- Madhuri Akhila, funnet 5 dager siden
-- Leiv Diomidis, funnet 5 dager siden
-- Aneta Diomidis, funnet 3 dager siden
-- Annika Silverleaf, funnet 1 dag siden
-
-
 
 # Forsvunnet med Elturel
 - **Artha** (25) - søster til Kasmodan
@@ -41,4 +28,19 @@
 - **Ina** (18) - søster til Shang Dol
 - **Morgenstjerne** (12) - søster til Einar
 - **Skyggespill** (17) - bror til Einar
+
+
+# Murders in Baldur's Gate
+
+### Clues
+- Clue 1: Tanner's fluid, often used in tanneries to rotten and loosen the hair of hides
+- Clue 2: Forgered refugees papers
+
+### Drepte personer
+- Edmao Eduarda, funnet 10 dager siden
+- Wemba Oshrat, funnet 8 dager siden
+- Madhuri Akhila, funnet 5 dager siden
+- Leiv Diomidis, funnet 5 dager siden
+- Aneta Diomidis, funnet 3 dager siden
+- Annika Silverleaf, funnet 1 dag siden
 

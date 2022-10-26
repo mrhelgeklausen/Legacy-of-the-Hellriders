@@ -19,6 +19,11 @@
 - **Torimesh**, druid i Insight park
 - **Marvias Fleecefoot**, halfling, ukjent, fant Wemba Oshrat
 - **Leylenna Candulhallow**, eier av Candulhallow's Funeral Arrangements
+- Council of four:
+  -  Grand Duke **Ulder Ravengard**, a career officer within the Flaming Fist
+  -  xxx
+  -  xxx
+  -  xxx
 
 
 # Forsvunnet med Elturel

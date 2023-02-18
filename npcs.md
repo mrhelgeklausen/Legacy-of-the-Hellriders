@@ -24,9 +24,10 @@
   -  Duke **Belynne Stelmane** 
   -  Duke **Dillard Portyr**
   -  Duke Thalamra Vanthampur
-  -  - Amrik (Low Lantern)
-  -  - Thurstwell
-  -  - Mortlock
+- Vanthampur Children
+  - Amrik (Low Lantern)
+  - Thurstwell
+  - Mortlock
 
 
 # Forsvunnet med Elturel

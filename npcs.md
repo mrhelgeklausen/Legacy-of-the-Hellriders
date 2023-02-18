@@ -21,9 +21,12 @@
 - **Leylenna Candulhallow**, eier av Candulhallow's Funeral Arrangements
 - Council of four:
   -  Grand Duke **Ulder Ravengard**, a career officer within the Flaming Fist
-  -  xxx
-  -  xxx
-  -  xxx
+  -  Duke **Belynne Stelmane** 
+  -  Duke **Dillard Portyr**
+  -  Duke Thalamra Vanthampur
+  -  - Amrik (Low Lantern)
+  -  - Thurstwell
+  -  - Mortlock
 
 
 # Forsvunnet med Elturel
@@ -49,3 +52,5 @@
 - Aneta Diomidis, funnet 3 dager siden
 - Annika Silverleaf, funnet 1 dag siden
 
+
+<img src="/images/baldursgate.jpg" alt="legacyofthehellrider" title="legacy of the hellrider"  >

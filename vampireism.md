@@ -9,7 +9,7 @@ vampiric master. Some, however, manage to retain their
 free will while embracing their newfound powers. 
 
 ## Vampire feats
-The character can acquire additional feats when they gain
+The character can embrace the vampirism and acquire vampiric feats when they gain
 **Ability Score Improvements**, as per the rules for feats in
 fifth edition. The feats are presented in the order they
 can be taken and the traits they grant are cumulative.

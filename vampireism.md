@@ -14,7 +14,7 @@ The character can embrace the vampirism and acquire vampiric feats when they gai
 fifth edition. The feats are presented in the order they
 can be taken and the traits they grant are cumulative.
 
-### VAMPIRE FLEDGUNG
+### VAMPIRE FLEDGLING
 Prerequisite: Having been bitten by a vampire.
 Your vampiric transformation has begun. You gain
 the following flaws and benefits:
@@ -31,7 +31,7 @@ hit point maximum to 0
 
 ### NEOPHYTE VAMPIRE
 _Prerequisite_: Character Level 4 or higher and the
-Fledg ling Vampire feat. Your vampiric powers grow.
+Fledgling Vampire feat. Your vampiric powers grow.
 You gain the following traits:
 
 - You have resistance to necrotic damage.

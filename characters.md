@@ -13,3 +13,9 @@
  
  </div>
  {% endfor %}
+ 
+ 
+ {% assign npc =  site.characters | where_exp: "item", "item.name == 'Amrik Vanthampur' "%}
+ # npc.name
+ 
+ {% assign npc2 = site.characters | where: 'title', include.title | first %}

@@ -8,7 +8,7 @@
  <div class="description">{{ character.description }} </div>
 
  {% if character.image %}
-     {{ character.image }}
+     <img src="{{ character.image }}" />
    {% endif %}
  
  </div>

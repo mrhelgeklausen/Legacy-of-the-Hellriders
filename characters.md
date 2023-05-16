@@ -39,22 +39,21 @@ console.log(queryString);
  
  {% assign theproduct = site.characters | where:"name", "Amrik Vanthampur" | first %}
  
- # npc.name2: {{ theproduct.name }}
-  # npc.n2ame2: {{ theproduct }}
+# npc.name2: {{ theproduct.name }}
+# npc.n2ame2: {{ theproduct }}
 
 
 
 
- {% for character in theproduct %}
- 
+
  <div class="character">
- <h3>{{ character.name }} </h3>
- <div class="description">{{ character.description }} </div>
+ <h3>{{ theproduct.name }} </h3>
+ <div class="description">{{ theproduct.description }} </div>
 
- {% if character.image %}
-     <img src="{{ character.image }}" alt="{{ character.name }}" />
+ {% if theproduct.image %}
+     <img src="{{ theproduct.image }}" alt="{{ theproduct.name }}" />
    {% endif %}
  
  </div>
- {% endfor %}
+
 

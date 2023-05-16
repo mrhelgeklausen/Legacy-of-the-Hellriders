@@ -31,7 +31,7 @@ console.log(queryString);
 # paraterers: {{ url_substring }}
  
  
- {% assign npc =  site.characters | where_exp: "characters", "characters.name == 'Amrik Vanthampur' "%}
+ {% assign npc =  site.characters | where_exp: "characters", "characters.name" == "Amrik Vanthampur" "%}
 # npc.name: {{ npc.name }}
  
  {% assign npc2 = site.characters | where: 'title', include.title | first %}
@@ -40,7 +40,7 @@ console.log(queryString);
  {% assign theproduct = site.characters | where:"name", "Amrik Vanthampur" | first %}
  
  # npc.name2: {{ theproduct.name }}
-  # npc.name2: {{ theproduct }}
+  # npc.n2ame2: {{ theproduct }}
 
 
 

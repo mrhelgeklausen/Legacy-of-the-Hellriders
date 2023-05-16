@@ -2,8 +2,14 @@
 
 
  {% for character in site.characters %}
- - {{ character.name }}, role: {{ character.description }}
- - {% if character.image %}
+ 
+ <div class="character">
+ <h3>{{ character.name }} </h3>
+ <div class="description">{{ character.description }} </div>
+
+ {% if character.image %}
      {{ character.image }}
    {% endif %}
+ 
+ </div>
  {% endfor %}

@@ -28,6 +28,7 @@
   - Amrik (Low Lantern)
   - Thurstwell
   - Mortlock
+- Delsephine - Cult of the Dragon 
 
 
 # Forsvunnet med Elturel

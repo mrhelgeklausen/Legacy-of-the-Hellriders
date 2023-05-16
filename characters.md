@@ -8,7 +8,7 @@
  <div class="description">{{ character.description }} </div>
 
  {% if character.image %}
-     <img src="{{ character.image }}" />
+     <img src="{{ character.image }}" alt="{{ character.name }}" />
    {% endif %}
  
  </div>

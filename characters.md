@@ -16,14 +16,14 @@
  
  
  {% assign url_substring = page.url | split, '/' | last %}
- # url: {{ url_substring }}
+# url: {{ url_substring }}
  
   
  {% assign url_substring = page.url | split, '?' | last %}
- # paraterers: {{ url_substring }}
+# paraterers: {{ url_substring }}
  
  
  {% assign npc =  site.characters | where_exp: "item", "item.name == 'Amrik Vanthampur' "%}
- # {{ npc.name }}
+# npc.name: {{ npc.name }}
  
  {% assign npc2 = site.characters | where: 'title', include.title | first %}

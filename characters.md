@@ -1,5 +1,12 @@
 # Characters
 
+<script>
+const queryString = window.location.search;
+console.log(queryString);
+ const characterParam = urlParams.get('character')
+ 
+ </script>
+
 
  {% for character in site.characters %}
  
@@ -23,7 +30,9 @@
 # paraterers: {{ url_substring }}
  
  
- {% assign npc =  site.characters | where_exp: "item", "item.name == 'Amrik Vanthampur' "%}
+ {% assign npc =  site.characters | where_exp: "characters", "characters.name == 'Amrik Vanthampur' "%}
 # npc.name: {{ npc.name }}
  
  {% assign npc2 = site.characters | where: 'title', include.title | first %}
+
+

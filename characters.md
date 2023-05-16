@@ -43,3 +43,18 @@ console.log(queryString);
   # npc.name2: {{ theproduct }}
 
 
+
+
+ {% for character in theproduct %}
+ 
+ <div class="character">
+ <h3>{{ character.name }} </h3>
+ <div class="description">{{ character.description }} </div>
+
+ {% if character.image %}
+     <img src="{{ character.image }}" alt="{{ character.name }}" />
+   {% endif %}
+ 
+ </div>
+ {% endfor %}
+

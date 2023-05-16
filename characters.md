@@ -3,6 +3,7 @@
 <script>
 const queryString = window.location.search;
 console.log(queryString);
+ const urlParams = new URLSearchParams(queryString);
  const characterParam = urlParams.get('character')
  
  </script>

@@ -1,5 +1,7 @@
 # Shield of the Hidden Lord
 
+What Sylvira Savikas know about the shield:
+
 - It was created by Gargauth, an archduke and demigod of Hell.
 - Gargauth can speak through the shield.
 - Anyone in contact with the shield is said to hear the Whisperings of the Hidden Lord. It’s unclear whether Gargauth can read or control the wearers’ thoughts, but it can definitely communicate telepathically with them.
@@ -8,6 +10,8 @@
 
 
 # Infernal puzzleboxes
+
+What Sylvira Savikas know about puzzleboxes:
 
 - They are crafted by devils of the Nine Hells.
 - They are usually made of infernal iron, but some are made of bone or horn.

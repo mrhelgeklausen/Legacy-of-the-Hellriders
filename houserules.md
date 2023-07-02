@@ -50,6 +50,6 @@ The spell ends once the spirit has restored hit points a number of times equal t
 [Sage Advice](https://www.sageadvice.eu/if-healing-spirit-has-felt-too-effective-in-your-game-try-this-house-rule/ "SageAdvice")
 
 ## Goodberries
-Goodberries holder deg i livet men er ikke noe erstatning for ekte mat
+Goodberries holder deg i live men er ikke noe erstatning for ekte mat
 
 

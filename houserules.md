@@ -16,7 +16,7 @@ short rest (e.g., a warlock’s spell slots).
 - Spend Hit Dice, one at a time, to regain hit points (up to their maximum Hit Dice, which is equal to the character’s level).
 
 ### Long Rest
-When taking 8 hours downtime in a safe area  a character
+When taking 8 hours downtime (6 hours of sleep)  a character
 with at least 1 hit point can:
 - Regain and use abilities that indicate they require a long rest.
 - Regain a number of spent Hit Dice equal to half the character’s total number of Hit Dice (minimum 1).

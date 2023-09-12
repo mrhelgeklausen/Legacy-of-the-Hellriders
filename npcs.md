@@ -8,9 +8,9 @@
 - **Skyggespill** (17) - bror til Einar
 
 # Funnet i Hellturel
-- Harkina med ungene Ezo og Brask
-- Alta Tron, mystical engineer
-- Strovin Ironfist, Kartra Boulderstren, Velkora Ashenwell (acolyte) (shield dwarfs)
+- **Harkina** med ungene **Ezo** og **Brask**
+- **Alta Tron**, mystical engineer
+- **Strovin Ironfist, Kartra Boulderstren**, **Velkora Ashenwel**l (acolyte) (shield dwarfs)
 
 # Lokasjoner i Hellturel
 - The High Hall

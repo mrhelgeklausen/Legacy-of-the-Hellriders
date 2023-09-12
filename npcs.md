@@ -1,3 +1,28 @@
+
+# Forsvunnet med Elturel
+- **Artha** (25) - søster til Kasmodan
+- **Thimmiuk** (56) - fra til Kasmodan 
+- **Heidrun** (41) - mor til Shang Dol
+- **Ina** (18) - søster til Shang Dol
+- **Morgenstjerne** (12) - søster til Einar
+- **Skyggespill** (17) - bror til Einar
+
+# Funnet i Hellturel
+- Harkina med ungene Ezo og Brask
+- Alta Tron, mystical engineer
+- Strovin Ironfist, Kartra Boulderstren, Velkora Ashenwell (acolyte) (shield dwarfs)
+
+# Lokasjoner i Hellturel
+- The High Hall
+- Torm's Bridges
+
+
+
+
+
+
+
+
 # Flyktninger
 
 - **Vina Krol**, høygravid, Einars fostermor
@@ -30,14 +55,6 @@
   - Mortlock
 - Delsephine - Cult of the Dragon 
 
-
-# Forsvunnet med Elturel
-- **Artha** (25) - søster til Kasmodan
-- **Thimmiuk** (56) - fra til Kasmodan 
-- **Heidrun** (41) - mor til Shang Dol
-- **Ina** (18) - søster til Shang Dol
-- **Morgenstjerne** (12) - søster til Einar
-- **Skyggespill** (17) - bror til Einar
 
 
 # Murders in Baldur's Gate

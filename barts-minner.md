@@ -14,10 +14,10 @@ Du føler deg litt rådvill. Hvordan skal dere løse det dere står ovenfor med 
 
 ----
 
-**Hearing Zariel’s Name**: “Zariel! That was the name of my angel!” Bart remembers that the name of the warrior angel who was her friend was Zariel. She has a flash of Zariel’s beatific face smiling in dappled, silvery moonlight. “Fair met, Bart. I am Zariel, solar of Celestia.”
+**Hearing Zariel’s Name**: “Zariel! That was the name of my angel!” Bart remembers that the name of the warrior angel who was her friend was Zariel. Bart has a flash of Zariel’s beatific face smiling in dappled, silvery moonlight. “Fair met, Bart. I am Zariel, solar of Celestia.”
 
 ---
 
-**Bart Comes to the High Hall**: Double vision of the High Hall and the old citadel that once stood atop the tor. When she passes through the doors, the vision will intensify and she will see Yael kneeling before Olanthius. Olanthius reaches down and offers Yael his hand, saying, “Speak to me of your Crusade, milady.” Yael responds, “Thank you, Lord Olanthius.”
+**Bart Comes to the High Hall**: Double vision of the High Hall and the old citadel that once stood atop the tor. When Bart passes through the doors, the vision will intensify and she will see Yael kneeling before Olanthius. Olanthius reaches down and offers Yael his hand, saying, “Speak to me of your Crusade, milady.” Yael responds, “Thank you, Lord Olanthius.”
 
 ---

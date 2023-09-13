@@ -11,3 +11,12 @@ Men så skjedde noe galt. Jeg kunne ikke huske nøyaktig hva, men jeg mistet min
 ---
 
 Du føler deg litt rådvill. Hvordan skal dere løse det dere står ovenfor med Vanthampur Manor? Men dere må planlegge godt! Det var alltid vennen min som var så flink til å planlegge. Hun var en kriger, en leder, en engel....hun var en engel...en engel som ledet krigere....kriger av ...av...Elturel... dere reiste sammen til Elturel for lenge siden. Hun ledet krigerene fra Elturel ned til helvete. Men jeg husker ikke slaget...hva skjedde...?... tapte vi?... er det derfor jeg ikke husker... hvorfor klarer jeg ikke å huske hva som skjedde....
+
+----
+
+**Hearing Zariel’s Name**: “Zariel! That was the name of my angel!” Bart remembers that the name of the warrior angel who was her friend was Zariel. She has a flash of Zariel’s beatific face smiling in dappled, silvery moonlight. “Fair met, Bart. I am Zariel, solar of Celestia.”
+
+---
+
+**Bart Comes to the High Hall**: Double vision of the High Hall and the old citadel that once stood atop the tor. When she passes through the doors, the vision will intensify and she will see Yael kneeling before Olanthius. Olanthius reaches down and offers Yael his hand, saying, “Speak to me of your Crusade, milady.” Yael responds, “Thank you, Lord Olanthius.”
+

@@ -18,6 +18,6 @@ Du føler deg litt rådvill. Hvordan skal dere løse det dere står ovenfor med 
 
 ---
 
-**Bart Comes to the High Hall**: Double vision of the High Hall and the old citadel that once stood atop the tor. When Bart passes through the doors, the vision will intensify and she will see Yael kneeling before Olanthius. Olanthius reaches down and offers Yael his hand, saying, “Speak to me of your Crusade, milady.” Yael responds, “Thank you, Lord Olanthius.”
+**Bart Comes to the High Hall**: Double vision of the High Hall and the old citadel that once stood atop the tor. When Bart passes through the doors, the vision will intensify and Bart will see Yael kneeling before Olanthius. Olanthius reaches down and offers Yael his hand, saying, “Speak to me of your Crusade, milady.” Yael responds, “Thank you, Lord Olanthius.”
 
 ---

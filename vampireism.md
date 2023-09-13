@@ -49,7 +49,7 @@ Your vampiric powers are waxing. You gain the
 following traits:
 
 - The necrotic damage dealt by your bite increases by
-ld6.
+1d6.
 - You have resistance to bludgeoning, piercing, and
 slashing damage from nonmagical attacks.
 - As an action, you can polymorph into a bat, or back
@@ -72,7 +72,7 @@ Your transformation into a vampire is complete. You
 gain the following traits:
 
 - The necrotic damage dealt by your bite increases by
-ld6.
+1d6.
 - You regain 10 hit points at the start of your turn if
 you have at least 1 hit point and aren't in direct
 sunlight or running water. If you take radiant

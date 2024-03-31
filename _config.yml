@@ -12,6 +12,10 @@ events:
 
 characters:
   -
+    name: "Blophog"
+    description: "Bearded devil med bare en tentakkel. Blophog er en selger"
+    image: "/images/characters/blophog.png"
+  -
     name: "Amrik Vanthampur"
     description: "Amrik Vanthampur ran a moneylending operation"
     image: "/images/characters/Amrik_Vanthampur_square_thumb.png"

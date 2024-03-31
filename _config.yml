@@ -28,6 +28,11 @@ characters:
     image: "/images/characters/feonor.png"
   -
     name: "Smiler the Defiler"
-    tagline: "Eladrin ex-warlord of Avernus
+    tagline: "Eladrin ex-warlord of Avernus"
     description: "Ikke helt sikker på om han er beruset"
     image: "/images/characters/smilerthedefiler.png"
+  -
+    name: "Mordenkainen"
+    tagline: "Trollmann"
+    description: "Bor i et tårn"
+    image: ""

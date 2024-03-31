@@ -21,12 +21,9 @@ characters:
     tagline: "Leder for Fort Knucklebone"
     description: "Vennlig på en bestemoraktig måte. Mad Maggie er den nåværende herskeren av Fort Knucklebone. Hun har gjort fortet om til et handelssted for krigsherrer i Avernus."
     image: "/images/characters/madmaggie.png"
-    
   -
-    name: "Amrik Vanthampur"
-    description: "Amrik Vanthampur ran a moneylending operation"
-    image: "/images/characters/Amrik_Vanthampur_square_thumb.png"
-  -
-    name: "Liara Portyr"
-    description: "Until recently, Liara Portyr commanded a Flaming Fist outpost called Fort Beluarian on the distant tropical peninsula of Chult. Her uncle is Duke Dillard Portyr of Baldur’s Gate, one of the city’s three remaining government leaders. Duke Portyr summoned his niece to take command of the Flaming Fist in Grand Duke Bastion Featherbottom’s absence."
-    image: "/images/characters/Liara_Portyr_square_thumb.jpeg"
+    name: "Feonor"
+    tagline: "Warlord of Avernus, leder av the Golden Doom"
+    description: "Tynn med melkehvite øyne, bærer en parasoll laget av bein og menneskehud"
+    image: "/images/characters/feonor.png"
+

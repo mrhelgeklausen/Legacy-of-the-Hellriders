@@ -19,9 +19,14 @@ characters:
   -
     name: "Mad Maggie"
     tagline: "Leder for Fort Knucklebone"
-    description: "Vennlig på en bestemoraktig måte. Mad Maggie er den nåværende herskeren av **Fort Knucklebone**. Hun har gjort fortet om til et handelssted for krigsherrer i Avernus.  
+    description: "Vennlig på en bestemoraktig måte. Mad Maggie er den nåværende herskeren av **Fort Knucklebone**. Hun har gjort fortet om til et handelssted for krigsherrer i Avernus.  Maggie har en drømmemaskin som kan løse opp Barts minner. Men den er ødelagt og trenger følgende deler:
     <br><br>
-    **En Nirvana-tannhjulsboks**. Brukt i en rekke infernalske maskiner, disse tannhjulsboksene kommer fra Mechanus. Chukka & Clonk har en delvis montert en.
+    **En Nirvana-tannhjulsboks**. Brukt i en rekke infernalske maskiner, disse tannhjulsboksene kommer fra Mechanus. Chukka & Clonk har en delvis montert en.<br>
+    **En Hjertestein**. Brukt av nattånder for å infiltrere drømmene til sine ofre. Den brukes som et prisme eller strålesplitter.<br>
+    **Phlegethosiansk sand**. Obsidiansand knust fra de kvasse, steinete slettene på Phlegethos, den fjerde laget av Helvete. Hvis Urm tårnet er der, kan du sannsynligvis få tak i den der.<br>
+    **En Canian islinse**. Strålefokuserer, laget av is fra Cania, den åttende laget av Helvete. Siden den er vant til å være så kald, vil islinsene ikke vare lenge i varmen av Avernus, så når du har fått dem, må du returnere raskt.
+
+    
     "
     image: "/images/characters/madmaggie.png"
   -
@@ -37,5 +42,5 @@ characters:
   -
     name: "Mordenkainen"
     tagline: "Trollmann"
-    description: "Bor i et tårn"
+    description: "Bor i Urm tårnet"
     image: ""

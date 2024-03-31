@@ -433,7 +433,7 @@ left: 0.1px !important;
 
 .character { postition: relative }
 
-.character-image  { width: 200px, postition: absolute; top:0; left:0; }
+.character-image  { width: 200px; postition: absolute; top:0; left:0; }
 
 .character-info  { padding: 0 0 0 200px }
 

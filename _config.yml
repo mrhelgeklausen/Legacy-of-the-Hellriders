@@ -43,7 +43,7 @@ characters:
     name: "Mordenkainen"
     tagline: "Trollmann"
     description: "Bor i Urm tårnet"
-    image: ""
+    image: "/images/characters/mordenkainen.pn"
   -
     name: "Red Ruth"
     tagline: "Heks"

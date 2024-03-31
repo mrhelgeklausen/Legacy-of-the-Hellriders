@@ -44,3 +44,9 @@ characters:
     tagline: "Trollmann"
     description: "Bor i Urm tårnet"
     image: ""
+  -
+    name: "Red Ruth"
+    tagline: "Heks"
+    description: "Har en ekstra hjertestein"
+    image: "/images/characters/redruth.png"
+

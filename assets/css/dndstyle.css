@@ -431,6 +431,20 @@ left: 0.1px !important;
 
 
 
+.character { postition: relative }
+
+.character-image  { width: 200px, postition: absolute; top:0; left:0; }
+
+.character-info  { padding: 0 0 0 200px }
+
+.character-tagline {font-style: italic;}
+
+.character .description {
+	font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+}
+
 
 
 

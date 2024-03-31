@@ -1,12 +1,6 @@
 # Characters
 
-<script>
-const queryString = window.location.search;
-console.log(queryString);
- const urlParams = new URLSearchParams(queryString);
- const characterParam = urlParams.get('character')
- 
- </script>
+
 
 
  {% for character in site.characters %}
@@ -22,38 +16,6 @@ console.log(queryString);
  </div>
  {% endfor %}
  
- 
- {% assign url_substring = page.url | split, '/' | last %}
-# url: {{ url_substring }}
- 
-  
- {% assign url_substring = page.url | split, '?' | last %}
-# paraterers: {{ url_substring }}
- 
- 
- {% assign npc =  site.characters | where_exp: "characters", "characters.name" == "Amrik Vanthampur" "%}
-# npc.name: {{ npc.name }}
- 
- {% assign npc2 = site.characters | where: 'title', include.title | first %}
- 
- 
- {% assign theproduct = site.characters | where:"name", "Amrik Vanthampur" | first %}
- 
-# npc.name2: {{ theproduct.name }}
-# npc.n2ame2: {{ theproduct }}
 
-
-
-
-
- <div class="character">
- <h3>{{ theproduct.name }} </h3>
- <div class="description">{{ theproduct.description }} </div>
-
- {% if theproduct.image %}
-     <img src="{{ theproduct.image }}" alt="{{ theproduct.name }}" />
-   {% endif %}
- 
- </div>
 
 

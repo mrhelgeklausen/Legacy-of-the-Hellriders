@@ -13,6 +13,7 @@ events:
 characters:
   -
     name: "Blophog"
+    tagline: "Bearded devil salgsmann"
     description: "Bearded devil med bare en tentakkel. Blophog er en selger"
     image: "/images/characters/blophog.png"
   -

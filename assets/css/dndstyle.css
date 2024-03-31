@@ -431,11 +431,11 @@ left: 0.1px !important;
 
 
 
-.character { position: relative }
+.character { position: relative; display: flex }
 
-.character-image  { width: 200px; position: absolute; top:0; left:0; }
+.character-image  { width: 200px;  }
 
-.character-info  { padding: 0 0 0 200px }
+.character-info  { padding: 0 0 0 20px }
 
 .character-tagline {font-style: italic;}
 

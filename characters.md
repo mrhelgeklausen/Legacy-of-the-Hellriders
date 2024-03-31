@@ -13,7 +13,7 @@
    <div class="character-info">
        <h3>{{ character.name }}</h3>
        <div class="character-tagline">{{ character.tagline }}</div>
-       <div class="description">{{ character.description }} </div>    
+       <div class="description">{{ character.description  | markdownify  }} </div>    
     </div>
  </div>
  {% endfor %}

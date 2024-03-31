@@ -431,7 +431,7 @@ left: 0.1px !important;
 
 
 
-.character { position: relative; display: flex }
+.character { display: flex }
 
 .character-image  { width: 200px;  }
 

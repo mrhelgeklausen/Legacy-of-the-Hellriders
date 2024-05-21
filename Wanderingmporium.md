@@ -39,3 +39,35 @@
 
 **Hvorfor besøke dette stedet?**: Fhet'Ahla tilbyr imps som kurerer, samt et utvalg av trolldomstjenester for å overføre informasjon over lange avstander. Han fungerer også som en utveksling for sjel-mynter og kan fungere som offisiell notarius for signering av infernale kontrakter.
 
+
+## The Rose Repose
+**Butikktype**: Juveler, parfymeforhandler, blomsterhandler, nekromantiker
+
+**Eier**: Vroscaz, en lich 
+
+**Hvorfor bruke denne butikken?**: Hvis du har en magiker som ønsker et unikt arkan fokus, noen som liker skjønnhet/forfinelse, necromatic tjenester, eller få informasjon via flokken av incubi og succubi utenfor.
+
+## Gabool's Pitchfork Emporium
+
+
+**Butikktype**: Våpenhandel
+
+**Eier**: Gabool, en spissdjevel med fremtredende gaffellignende horn
+
+**Hvorfor bruke denne butikken?: **Mange djevler og yugolother bruker pitchfork som sine foretrukne våpen, så det er naturlig at de er etterspurt. Butikken kan også tilby unik ammunisjon til krigsmaskiner utstyrt med harpun-slyngere, etter ditt skjønn.
+
+
+## Sister Elga's House of Curses
+
+**Butikktype**: Magiske tjenester
+
+**Eier**: Søster Elga, en grønn heks som ønsker å bli en natteheks
+
+**Hvorfor bruke denne butikken?**: Fjerning av forbannelse-besvergelse. I tillegg, hvis spillerne har bitre rivaler, kan de be heksen om å legge forbannelser på dem.
+
+
+
+
+
+
+

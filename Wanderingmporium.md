@@ -15,6 +15,10 @@
 
 ## Burney the Barber
 
+![Burney](images/characters/burney_square_thumb.jpg "Burney")
+
+
+
 **Butikktype**: Barberer og helbreder
 
 **Eier**: Burney 

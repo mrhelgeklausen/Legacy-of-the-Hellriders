@@ -1,4 +1,6 @@
 ##  Infernal Rapture
+![mahadi](images/characters/mahadi.jpg "mahadi")
+
 
 **Butikktype**: Eksklusivt vertshus/spa på en halvdimensjon
 

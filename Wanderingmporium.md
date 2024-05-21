@@ -27,6 +27,8 @@
 
 ## From Here to Avernus
 
+![FhetAhla](images/characters/FhetAhla.png "FhetAhla")
+
 
 **Butikktype**: Kurér- og trylletjenester
 
